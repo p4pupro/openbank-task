@@ -1,0 +1,95 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test - <AppRouter /> renders without crashing 1`] = `
+<div>
+  <div
+    className="container mt-2"
+  >
+    <div
+      className="container is-fluid"
+    >
+      <div>
+        <img
+          alt="openbank-logo"
+          className="App-header-logo"
+          src="key_openbank.png"
+        />
+        <h1>
+          WELCOME
+          <strong>
+            MANAGER-PWC
+          </strong>
+        </h1>
+        <a
+          className=""
+          onClick={[Function]}
+        >
+          <span
+            className="icon lang-color"
+          >
+            <i
+              className="fas fa-flag"
+            />
+            <p>
+              EN
+            </p>
+          </span>
+        </a>
+      </div>
+      <hr />
+      <section
+        className="section "
+      >
+        <div
+          className="container"
+        >
+          <h1
+            className="title"
+          >
+            MANAGER-PWC
+          </h1>
+          <h2
+            className="subtitle"
+          >
+            SUBTITLE
+             
+            <strong>
+              <a
+                onClick={[Function]}
+              >
+                CLICK-HERE
+              </a>
+            </strong>
+            START-PROCCESS
+          </h2>
+        </div>
+      </section>
+      <footer
+        className="footer"
+      >
+        <div
+          className="content has-text-centered"
+        >
+          <p>
+            <strong>
+              Openbank task
+            </strong>
+             by
+             
+            <a
+              href="https://github.com/p4pupro"
+            >
+              Domingo Pérez
+            </a>
+          </p>
+          <img
+            alt="openbank-logo"
+            className="App-header-logo"
+            src="logo_openbank.png"
+          />
+        </div>
+      </footer>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test - <ModalWizard /> Should renders fine 1`] = `
+<Info
+  formData={
+    Object {
+      "confirmPassword": "",
+      "password": "",
+      "rememberPassword": "",
+    }
+  }
+  navigation={
+    Object {
+      "go": [Function],
+      "next": [Function],
+      "pause": [Function],
+      "play": [Function],
+      "previous": [Function],
+    }
+  }
+  onRequestClose={[MockFunction]}
+  response={401}
+  setForm={[Function]}
+  setResponse={[Function]}
+/>
+`;
